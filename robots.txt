@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iesidenb.github.io/sitemap.iesidenb.gz
+Sitemap: https://iesidenb.github.io/app/sitemap.iesidenb.gz
+Sitemap: https://iesidenb.github.io/assets/sitemap.iesidenb.gz
+Sitemap: https://iesidenb.github.io/css/sitemap.iesidenb.gz
+Sitemap: https://iesidenb.github.io/data/sitemap.iesidenb.gz
+Sitemap: https://iesidenb.github.io/includes/sitemap.iesidenb.gz
+Sitemap: https://iesidenb.github.io/item/sitemap.iesidenb.gz
+Sitemap: https://iesidenb.github.io/src/sitemap.iesidenb.gz
